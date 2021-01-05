@@ -1,0 +1,32 @@
+{
+  "files": {
+    "static/js/0.93ccfb46.chunk.js": "/OsXpert/static/js/0.93ccfb46.chunk.js",
+    "static/js/0.93ccfb46.chunk.js.map": "/OsXpert/static/js/0.93ccfb46.chunk.js.map",
+    "main.css": "/OsXpert/static/css/main.e720efc9.chunk.css",
+    "main.js": "/OsXpert/static/js/main.08f44742.chunk.js",
+    "main.js.map": "/OsXpert/static/js/main.08f44742.chunk.js.map",
+    "runtime-main.js": "/OsXpert/static/js/runtime-main.a384d0b7.js",
+    "runtime-main.js.map": "/OsXpert/static/js/runtime-main.a384d0b7.js.map",
+    "static/css/3.ec02d681.chunk.css": "/OsXpert/static/css/3.ec02d681.chunk.css",
+    "static/js/3.0c950648.chunk.js": "/OsXpert/static/js/3.0c950648.chunk.js",
+    "static/js/3.0c950648.chunk.js.map": "/OsXpert/static/js/3.0c950648.chunk.js.map",
+    "static/js/4.4563bb74.chunk.js": "/OsXpert/static/js/4.4563bb74.chunk.js",
+    "static/js/4.4563bb74.chunk.js.map": "/OsXpert/static/js/4.4563bb74.chunk.js.map",
+    "static/js/5.34b375a5.chunk.js": "/OsXpert/static/js/5.34b375a5.chunk.js",
+    "static/js/5.34b375a5.chunk.js.map": "/OsXpert/static/js/5.34b375a5.chunk.js.map",
+    "index.html": "/OsXpert/index.html",
+    "static/css/3.ec02d681.chunk.css.map": "/OsXpert/static/css/3.ec02d681.chunk.css.map",
+    "static/css/main.e720efc9.chunk.css.map": "/OsXpert/static/css/main.e720efc9.chunk.css.map",
+    "static/js/0.93ccfb46.chunk.js.LICENSE.txt": "/OsXpert/static/js/0.93ccfb46.chunk.js.LICENSE.txt",
+    "static/js/3.0c950648.chunk.js.LICENSE.txt": "/OsXpert/static/js/3.0c950648.chunk.js.LICENSE.txt",
+    "static/media/SearchEngines.840af445.gif": "/OsXpert/static/media/SearchEngines.840af445.gif",
+    "static/media/StartupLife.e4ecd631.gif": "/OsXpert/static/media/StartupLife.e4ecd631.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a384d0b7.js",
+    "static/css/3.ec02d681.chunk.css",
+    "static/js/3.0c950648.chunk.js",
+    "static/css/main.e720efc9.chunk.css",
+    "static/js/main.08f44742.chunk.js"
+  ]
+}
